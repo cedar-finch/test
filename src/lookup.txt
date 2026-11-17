@@ -1,1 +1,1 @@
-LookupService: find customer by id
+Cache: keep lookups for 5 minutes
